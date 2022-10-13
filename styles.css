@@ -13,6 +13,11 @@ body{
     background-color: var(--light-gray);
     font-size: 15px;
     font-family: 'Outfit', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
 }
 .mainComponent{
     width: 280px;
